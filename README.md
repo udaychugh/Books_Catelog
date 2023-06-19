@@ -17,4 +17,16 @@ The application should allow users to browse and search for books
 ### Frontend:
 1. React.js framework of JS
 
-How to use
+## How to use
+
+
+## Screenshots of Application
+1. Normal Screen
+<img src="https://github.com/udaychugh/Books_Catelog/blob/main/Screenshots/Screenshot%201.png?raw=true" height="200px" width="400px" alt="Screenshot">
+<br>
+2. Search with Book Name
+<img src="https://github.com/udaychugh/Books_Catelog/blob/main/Screenshots/screenshot%202.png?raw=true" height="200px" width="400px" alt="Screenshot">
+<br>
+3. Search with Author Name
+<img src="https://github.com/udaychugh/Books_Catelog/blob/main/Screenshots/screenshot%203.png?raw=true" height="200px" width="400px" alt="Screenshot">
+<br>
