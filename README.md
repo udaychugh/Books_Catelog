@@ -18,7 +18,21 @@ The application should allow users to browse and search for books
 1. React.js framework of JS
 
 ## How to use
+- Clone or download the repo in your system
 
+### For Backend
+- open backend folder
+- create a virtual environment in your system
+- activate virtual environment
+- install flask using ```pip install flask```
+- now run on your terminal ```flask run```
+
+### For Frontend
+-  open frontend folder
+-  install react libraries in your system using npm
+-  now run on your terminal ```npm start```
+
+*Note:- Both backend and frontend are required to run in background.*
 
 ## Screenshots of Application
 1. Normal Screen
