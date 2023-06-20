@@ -44,3 +44,12 @@ The application should allow users to browse and search for books
 3. Search with Author Name
 <img src="https://github.com/udaychugh/Books_Catelog/blob/main/Screenshots/screenshot%203.png?raw=true" height="200px" width="400px" alt="Screenshot">
 <br>
+4. Search with Category
+<img src="https://github.com/udaychugh/Books_Catelog/blob/main/Screenshots/screenshot%204.png?raw=true" height="200px" width="400px" alt="Screenshot">
+<br>
+5. Search with Filter
+<img src="https://github.com/udaychugh/Books_Catelog/blob/main/Screenshots/screenshot%205.png?raw=true" height="200px" width="400px" alt="Screenshot">
+<br>
+6. Database using in Flask
+<img src="https://github.com/udaychugh/Books_Catelog/blob/main/Screenshots/flask_database.png?raw=true" height="200px" width="400px" alt="Screenshot">
+<br>
